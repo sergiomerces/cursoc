@@ -1,0 +1,2 @@
+# cursoc
+Curso linguagem C
